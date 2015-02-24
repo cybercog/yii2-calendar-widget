@@ -16,7 +16,7 @@
         "yiisoft/yii2": "*",
         "transitmedia/yii2-calendar": "*"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "tm\\": ""
