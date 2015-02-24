@@ -1,0 +1,24 @@
+{
+    "name": "transitmedia/yii2-calendar",
+    "description": "Widget for Yii Framework 2.0 to use a ResourceCalendar",
+    "keywords": ["yii2", "extension", "widget", "calendar", "resourcecalendar"],
+    "homepage": "https://github.com/transitmedia/yii2-calendar-widget",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Hans de Waart",
+            "email": "hans@transitmedia.nl",
+            "homepage": "http://www.transit.media/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "tm\\": ""
+        }
+    }
+}
